@@ -88,7 +88,7 @@
 
   - AR카메라를 움직임에 따라 Indicator와 자식인 MinimapCamera가 움직임을 볼 수 있다.
 
-    ![결과](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ecc5be0f-be37-4cc5-b7c3-baa68efd7c79/Hnet.com-image.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T075246Z&X-Amz-Expires=86400&X-Amz-Signature=f5eb64da91ebe577645e011c7756c55bfb5d9b9e511d5fcc3625535f0c30e547&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Hnet.com-image.gif%22&x-id=GetObject)
+    ![결과](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7fd50bf-2406-490a-a443-6072d4fe0f49/arNav1.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T075409Z&X-Amz-Expires=86400&X-Amz-Signature=1456b3c27ee78a63b0cfd127933196fb57065601e6a0635e6e4a34b7f6f989be&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22arNav1.mp4%22&x-id=GetObject)
 
     
 
