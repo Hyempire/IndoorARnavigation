@@ -11,7 +11,6 @@
 
 ![세팅](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed4797bf-1995-4563-bb64-beae1eb6db78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T071144Z&X-Amz-Expires=86400&X-Amz-Signature=0345adaabe9a056ddeb17280fc66896f6a5ad7d75c1f8c370b8fff3847610b58&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject) 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed4797bf-1995-4563-bb64-beae1eb6db78/Untitled.png)
 
 ### 1. 미니맵 내 인디케이터가 AR카메라 위치에 따라 움직이게 만들기
 
@@ -74,9 +73,7 @@
 
   - FirstPersonCamera와 CameraTarget에는 각각 AR Camera와 Indicator를 넣어줌
 
-    ![HelloARController](README.assets/Untitled2.png) 
-
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ca0f1d7-d940-4442-b6c7-5c1d687f1d47/Untitled.png)
+    ![HelloARController](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ca0f1d7-d940-4442-b6c7-5c1d687f1d47/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T140901Z&X-Amz-Expires=86400&X-Amz-Signature=d79ec63948df4a1e3d4deb46fc426a72db78083f1fda3cce201fe2ada003c0c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject) 
 
 - 코드 설명
 
