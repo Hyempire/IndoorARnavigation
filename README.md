@@ -73,9 +73,7 @@
   - EmptyGameObject1에 넣어둠
 
   - FirstPersonCamera와 CameraTarget에는 각각 AR Camera와 Indicator를 넣어줌
-
-<<<<<<< HEAD
-    ![HelloARController](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ca0f1d7-d940-4442-b6c7-5c1d687f1d47/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T140901Z&X-Amz-Expires=86400&X-Amz-Signature=d79ec63948df4a1e3d4deb46fc426a72db78083f1fda3cce201fe2ada003c0c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+        ![HelloARController](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ca0f1d7-d940-4442-b6c7-5c1d687f1d47/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T140901Z&X-Amz-Expires=86400&X-Amz-Signature=d79ec63948df4a1e3d4deb46fc426a72db78083f1fda3cce201fe2ada003c0c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 - 코드 설명
 
