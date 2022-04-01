@@ -74,9 +74,8 @@
 
   - FirstPersonCamera와 CameraTarget에는 각각 AR Camera와 Indicator를 넣어줌
 
+<<<<<<< HEAD
     ![HelloARController](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2ca0f1d7-d940-4442-b6c7-5c1d687f1d47/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T140901Z&X-Amz-Expires=86400&X-Amz-Signature=d79ec63948df4a1e3d4deb46fc426a72db78083f1fda3cce201fe2ada003c0c4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-  
-     
 
 - 코드 설명
 
@@ -88,8 +87,9 @@
 
   - AR카메라를 움직임에 따라 Indicator와 자식인 MinimapCamera가 움직임을 볼 수 있다.
 
-    ![결과](file:///D:/%E3%85%8E_%EC%97%B0%EA%B5%AC%EC%8B%A4/VR%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/Hnet.com-image.gif)
-
+    ![결과](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd004dc3-1a91-4d51-b1ab-3e0ae41bbec8/arNav1_AdobeCreativeCloudExpress.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220401%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220401T080130Z&X-Amz-Expires=86400&X-Amz-Signature=fc94466c48d97b0911a7325e5a920bc45c1263eed50bed2299be5f22781aeb4b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22arNav1_AdobeCreativeCloudExpress.gif%22&x-id=GetObject)
+    
+    
     
 
 
